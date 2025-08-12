@@ -1,0 +1,6 @@
+order_id,amount,profit,quantity,category,sub_category,payment_mode,order_date
+B-25681,1096.00,658.00,7,Electronics,"Electronic Games","COD",NULL
+B-26055,5729.00,64.00,14,Furniture,Chairs,"EMI",NULL
+B-25955,2927.00,146.00,8,Furniture,Bookcases,"EMI",NULL
+B-26093,2847.00,712.00,8,Electronics,Printers,"Credit Card",NULL
+B-25602,2617.00,1151.00,4,Electronics,Phones,"Credit Card",NULL
